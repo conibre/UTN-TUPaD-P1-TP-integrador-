@@ -18,9 +18,8 @@ Contiene la defensa oral del proyecto:
 * **Presentación:** Video explicativo donde los integrantes detallan el código, las decisiones de diseño (uso de diccionarios, lógica sin `break`, modularización) y demuestran la funcionalidad del programa en tiempo real.
 
 ## 👥 Integrantes del Grupo
+•	José Ricardo Miranda Ag25-1C-10, Grupo274, R- Avellaneda
 
-* **[Tu Nombre Aquí]** - Legajo: [XXXXX]
-* **[Nombre Compañero]** - Legajo: [XXXXX]
 
 ## 🚀 Instrucciones para correr el código
 
